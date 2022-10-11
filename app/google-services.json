@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "100327535677",
+    "firebase_url": "https://comicservice-a-default-rtdb.firebaseio.com",
+    "project_id": "comicservice-a",
+    "storage_bucket": "comicservice-a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100327535677:android:9c9be9bd8d37ecfa4a2654",
+        "android_client_info": {
+          "package_name": "com.daydev.comics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100327535677-1csud8vrc89ik7es6lqdl1ftu0a7ctad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALwT6LEKYwmwT7fMf3AH5wunz_o6dnRFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100327535677-1csud8vrc89ik7es6lqdl1ftu0a7ctad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100327535677:android:3fd5dd897348b98b4a2654",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100327535677-1csud8vrc89ik7es6lqdl1ftu0a7ctad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALwT6LEKYwmwT7fMf3AH5wunz_o6dnRFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100327535677-1csud8vrc89ik7es6lqdl1ftu0a7ctad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
